@@ -1,3 +1,5 @@
+//+build js
+
 package main
 
 //go:generate cp /usr/local/go/misc/wasm/wasm_exec.js .

@@ -1,4 +1,4 @@
-module github.com/schollz/wasmcrypto
+module github.com/bytedisciple/wasmcrypto
 
 go 1.13
 
